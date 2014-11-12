@@ -1,4 +1,4 @@
 HelloWorld
 ==========
 
-to get started
+Hello everybody! I am a supa cool machine...
